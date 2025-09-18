@@ -2,8 +2,7 @@
 # Hey, I'm Ayan 👋
 
 -  Future Developer in the making.  
--  Currently learning Python.
--  Sharing my journey weekly.  
+-  Currently learning Python.  
 -  Goal: Contribute to open source & work at Apple.
 
 ## 🔧 Tech I'm Learning
